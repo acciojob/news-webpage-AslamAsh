@@ -2,6 +2,7 @@
 .header{
 	background-color:#011e29;
 	color:#fff;
+	text-align:center;
 }
 h1{
 	text-align:center;
@@ -26,7 +27,7 @@ ul,li{
 	
 	
 }
-h2{
+h2,h3{
 	text-align:"center";
 	padding:5px;
 	margin:5px;
